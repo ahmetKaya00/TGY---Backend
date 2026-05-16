@@ -6,7 +6,6 @@ C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\Produ
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\ProductApi.runtimeconfig.json
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\ProductApi.dll
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\ProductApi.pdb
-C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\obj\Debug\net10.0\ProductApi.csproj.AssemblyReference.cache
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\obj\Debug\net10.0\rpswa.dswa.cache.json
@@ -146,3 +145,7 @@ C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\runti
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\obj\Debug\net10.0\ProductApi.sourcelink.json
+C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaya3\Documents\GitHub\TGY---Backend\ProductApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
